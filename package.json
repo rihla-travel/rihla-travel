@@ -1,0 +1,26 @@
+{
+  "name": "rihla-travel",
+  "version": "1.0.0",
+  "description": "<!-- **rihla-travel/rihla-travel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rihla-travel/rihla-travel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rihla-travel/rihla-travel/issues"
+  },
+  "homepage": "https://github.com/rihla-travel/rihla-travel#readme",
+  "dependencies": {
+    "@google/genai": "^3.6.0",
+    "express": "^5.3.0"
+  }
+}
