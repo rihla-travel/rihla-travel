@@ -131,5 +131,4 @@ if (!process.env.GEMINI_API_KEY) {
 
                                                                                                                                                                                                            app.listen(PORT, "0.0.0.0", () => {
                                                                                                                                                                                                              console.log(`RIHLA AI server running on port ${PORT}`);
-                                                                                                                                                                                                             });
-                                                                                                                                                                                                             
+                                                                                                                                                                                                             }) 
